@@ -1,8 +1,8 @@
 ---
 name: Test Case`s template
 about: Test Case`s template for QC team
-title: Test Case
-labels: ''
+title: "[TestCase] "
+labels: documentation, test case
 assignees: ''
 
 ---
