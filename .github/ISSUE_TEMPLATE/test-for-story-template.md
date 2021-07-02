@@ -32,4 +32,4 @@ Step № | Test Steps | Test data | Expected result | Status (Pass/Fail/Not exec
 ### Dependencies: 
 link
 
-### [Estimating](https://docs.google.com/spreadsheets/d/1RAvIdPidr9LfnJMXSpfFeylnlB2aTgO3D5Q7IRYhgp4/edit#gid=2007564499)
+### [Gantt Chart](https://docs.google.com/spreadsheets/d/1bgaEJDOf3OhfNRfP-WWPKmmZFW5C3blOUxamE3wSCbM/edit#gid=775577959)
